@@ -17,5 +17,9 @@ ipython_config.py
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 
+### 승현 추가 ###
 # 데이터셋 제외
+dataset/
+PreProcessed/
 *.csv
+*.xlsx
